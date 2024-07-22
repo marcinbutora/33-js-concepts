@@ -21,7 +21,7 @@
 
 ## Wstęp
 
-To repozytorium powstało z intencją dostarczenia wiedzy i wartościowych źródeł informacji dla osób chcących osiągnąć mistrzostwo w znajomości języka Javascript. Jest to zaledwie przewodnik po ważnych konceptach języka a nie absolutna lista wymagań. Zawartość repozytorium bazuje na artykule napisanym przez [Stephena Curtisa](https://twitter.com/stephenthecurt). Z artykułem można zapoznać się w [tym miejscu](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
+To repozytorium powstało z intencją dostarczenia wiedzy i wartościowych źródeł informacji dla osób chcących osiągnąć mistrzostwo w znajomości języka Javascript. Jest to zaledwie przewodnik po ważnych konceptach języka a nie absolutna lista wymagań. Zawartość repozytorium bazuje na artykule napisanym przez [Stephena Curtisa](https://twitter.com/stephenthecurt). Z artykułem można zapoznać się w [tym miejscu](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1){:target="_blank"}.
 
 ## Społeczność
 
